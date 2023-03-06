@@ -1,0 +1,6 @@
+projectKey=maven
+serverUrl=http://3.110.86.223:9000
+serverVersion=8.9.1.44547
+dashboardUrl=http://3.110.86.223:9000/dashboard?id=maven
+ceTaskId=AYa1q5hBE17cYw2N6BLJ
+ceTaskUrl=http://3.110.86.223:9000/api/ce/task?id=AYa1q5hBE17cYw2N6BLJ
