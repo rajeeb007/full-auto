@@ -7,9 +7,9 @@ pipeline{
                 git branch: 'main', credentialsId: 'raji_git', url: 'https://github.com/rajeeb007/full-auto.git'
             }
         }
-        stage('maven build'){
+        stage('UNIT Test'){
             steps{
-                sh 'mvn build'
+                sh 'mvn test'
             }
         }
     }
